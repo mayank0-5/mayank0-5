@@ -1,138 +1,151 @@
 # Hi, I'm Mayank Waiker 👋
-🎓 **2nd-Year B.Tech Data Science Student**  
-📍 Indore, Madhya Pradesh, India  
-📧 Mayankwaiker05@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/mayank-waiker-043739331)
+
+🎓 B.Tech Computer Science Engineering (Data Science)
+📍 Indore, Madhya Pradesh, India
+📧 mayankwaiker05@gmail.com
+🔗 LinkedIn
+💻 GitHub
 
 ---
 
 ## 🚀 About Me
 
-Data Science engineering student with hands-on experience in **Machine Learning, Business Intelligence, and Algorithm Design**. Passionate about transforming raw data into meaningful stories and building **data-driven solutions** that create real impact.
+I am a Data Science student passionate about solving real-world problems using data, algorithms, and machine learning. My interests include data analytics, machine learning, business intelligence, visualization, and computational problem-solving.
 
-Currently seeking opportunities in:
-- Data Science
-- Data Analytics
-- Business Intelligence
-- Machine Learning
+I enjoy transforming raw data into meaningful insights and building projects that combine analytical thinking with practical implementation.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Languages
+### Programming Languages
 - Python
 - C
 - C++
-- SQL
-- HTML / CSS
+- HTML
+- CSS
 
-### Machine Learning & Data Science
-- Scikit-learn
+### Data Science & Analytics
 - Pandas
 - NumPy
 - SciPy
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
-- Pattern Recognition
+- KPI Analysis
 
-### Data Visualization & BI
+### Machine Learning
+- Supervised Learning
+- Regression
+- Classification
+- Model Evaluation
+
+### Visualization & BI
 - Tableau
 - Matplotlib
-- KPI Analysis
-- Dashboard Design
+- Microsoft Excel
+- Dashboard Development
 
-### Data Engineering
+### Databases & Tools
+- SQL
 - Apache Kafka
-- Data Wrangling
-- Data Cleaning
-
-### Tools & Platforms
 - Jupyter Notebook
 - Google Colab
-- MS Excel
 - Git & GitHub
 
-### Concepts
-- Supervised Machine Learning
-- Statistical Analysis
-- Computational Geometry
+### Computer Science Fundamentals
 - Algorithm Design
+- Pattern Recognition
+- Computational Geometry
+- Grid-Based Data Structures
 
 ---
 
 ## 💻 Projects
 
-### 🎨 Computational Kolam Design Generator
-**Tech Stack:** Python, NumPy, Matplotlib, Algorithm Design
+### 🎨 Computational Analysis & Generation of Kolam Designs
+**Tech Stack:** Python, NumPy, Matplotlib
 
-- Designed an algorithm to analyse symmetry, loops, and geometric structures in traditional Indian Kolam art.
-- Automatically generates new Kolam designs by converting abstract mathematical rules into visual outputs.
-- Applied:
-  - NumPy matrix operations for grid-based pattern representation
-  - Matplotlib rendering for visual output generation
-  - Computational geometry principles for symmetry detection
-
----
-
-### 📊 Supermarket Sales Intelligence Dashboard
-**Tech Stack:** Python, Tableau, EDA, Business Intelligence
-
-- Built an end-to-end BI project from raw transactional sales data to interactive dashboard.
-- Performed complete data preprocessing:
-  - Missing value handling
-  - Data wrangling and cleaning
-  - Feature analysis
-- Conducted full Exploratory Data Analysis (EDA).
-- Designed an interactive Tableau dashboard with:
-  - KPI cards for quick performance overview
-  - Trend analysis charts for seasonal pattern identification
-  - Product line performance breakdown
+- Developed a system to analyze and generate traditional Indian Kolam patterns.
+- Applied algorithm-based pattern recognition techniques to study:
+  - Symmetry
+  - Loops
+  - Repeating geometric structures
+- Built a grid-based pattern generation model using matrix operations.
+- Converted mathematical rules into visually generated designs.
 
 ---
 
-## 🏆 Leadership & Achievements
+### 📊 Supermarket Sales Dashboard
+**Tech Stack:** Tableau, EDA, Business Intelligence
 
-- 🏅 **School House Captain** – Spearheaded coordination of **50+ students** across academic, cultural, and competitive events
-- 💬 Championed communication between student body and administration
-- 🎯 Mentored peers and drove a high-performance, results-oriented team culture
-- 🚀 Self-initiated technical projects beyond curriculum — from ideation to working implementation
-
----
-
-## 💡 Strengths
-
-- End-to-End Data Science Project Development
-- Algorithm Design & Computational Thinking
-- Business Intelligence & Dashboard Storytelling
-- Fast Learner & Self-Driven
-- Data-First Problem Solving Mindset
+- Built an interactive dashboard to analyze supermarket sales data.
+- Performed data cleaning and exploratory data analysis.
+- Visualized:
+  - Customer purchasing behavior
+  - Product performance
+  - Sales trends
+  - Business KPIs
+- Designed data-driven insights to support business decision-making.
 
 ---
 
-## 🌱 Currently Learning
+## 🎓 Education
 
-- Scikit-learn (advanced ML models)
-- TensorFlow & Deep Learning
-- Hypothesis Testing & Statistical Inference
-- Time Series Analysis
+### Indore Institute of Science and Technology
+**B.Tech – Computer Science Engineering (Data Science)**
+2023 – 2027 (Pursuing)
 
----
-
-## 🌟 Interests
-
-- Computational Art & Creative Algorithms
-- Open Source Exploration
-- Data Storytelling
-- Continuous Learning
+### Nirmala English Medium School
+Higher Secondary & Secondary Education
 
 ---
 
-## 📫 Let's Connect
+## 🏅 Leadership Experience
 
-📧 **Email:** Mayankwaiker05@gmail.com  
-🔗 **LinkedIn:** [Mayank Waiker](https://linkedin.com/in/mayank-waiker-043739331)
+### School House Captain
+- Led and coordinated 50+ students across academic, cultural, and competitive events.
+- Promoted teamwork, discipline, and collaboration.
+- Mentored students and acted as a liaison between students and administration.
+- Developed leadership, communication, and problem-solving skills.
 
 ---
 
-⭐ *Open to internship opportunities (Remote & On-site)*
+## 📚 Continuous Learning
+
+Currently expanding my knowledge in:
+
+- Machine Learning
+- Statistical Analysis
+- Data Visualization
+- Data Engineering
+- Business Intelligence
+
+Learning Platforms:
+- Coursera
+- Kaggle
+- Google Colab
+- Jupyter Notebook
+
+---
+
+## 🌱 Current Goals
+
+- Build end-to-end Machine Learning projects
+- Contribute to Open Source
+- Master Data Analytics & Visualization
+- Learn Advanced Machine Learning & AI
+- Secure Data Science / ML Internship Opportunities
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: mayankwaiker05@gmail.com
+
+💼 LinkedIn: Add Your LinkedIn URL
+
+💻 GitHub: Add Your GitHub URL
+
+---
+
+⭐ If you like my projects, feel free to connect and collaborate!
